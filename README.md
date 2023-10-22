@@ -14,8 +14,8 @@ Chaining은 부산 지역 내 기부를 할 수 있는 이더리움 Dapp 플랫�
 |정진규|jjk3969@pusan.ac.kr|Front-end|
 
 ### 3. 구성도
-[.](https://user-images.githubusercontent.com/64763550/277154430-b67164c8-2d5b-4c13-965e-9ea3f6e73dc4.png)
-[.](https://user-images.githubusercontent.com/64763550/277154440-e2d477fc-3f1e-4424-93b5-8bf5179e5980.png)
+![.](https://user-images.githubusercontent.com/64763550/277154430-b67164c8-2d5b-4c13-965e-9ea3f6e73dc4.png)
+![.](https://user-images.githubusercontent.com/64763550/277154440-e2d477fc-3f1e-4424-93b5-8bf5179e5980.png)
 
 ### 4. 소개 및 시연 영상
 
